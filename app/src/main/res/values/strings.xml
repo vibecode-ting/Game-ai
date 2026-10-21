@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameAI Agent</string>
+    <string name="accessibility_service_description">GameAI Agent accessibility service automates touch and gesture inputs for autonomous game agent operation.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "GameAI Agent",
+  "description": "Autonomous mobile game playing agent using Gemini vision reasoning, MediaProjection screen capture, and Accessibility touch simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
